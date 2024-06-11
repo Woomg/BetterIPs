@@ -1,1 +1,147 @@
-
+54.249.173.119	443	TRUE	NRT	Asia Pacific	Tokyo	80 ms	18632 kB/s
+15.165.49.161	8080	TRUE	ICN	Asia Pacific	Seoul	113 ms	14290 kB/s
+13.250.131.37	443	TRUE	SIN	Asia Pacific	Singapore	96 ms	13793 kB/s
+99.83.209.185	443	TRUE	IAD	North America	Ashburn	176 ms	10628 kB/s
+18.167.194.154	443	TRUE	HKG	Asia Pacific	Hong Kong	134 ms	8920 kB/s
+13.230.34.30	80	FALSE	NRT	Asia Pacific	Tokyo	74 ms	12331 kB/s
+64.110.88.46	443	TRUE	ICN	Asia Pacific	Seoul	85 ms	20784 kB/s
+150.230.47.17	443	TRUE	SJC	North America	San Jose	171 ms	10984 kB/s
+192.9.246.112	8443	TRUE	SJC	North America	San Jose	186 ms	10659 kB/s
+140.238.19.2	443	FALSE	NRT	Asia Pacific	Tokyo	72 ms	16191 kB/s
+8.210.65.1	2083	TRUE	HKG	Asia Pacific	Hong Kong	58 ms	18441 kB/s
+47.76.77.103	8443	TRUE	HKG	Asia Pacific	Hong Kong	66 ms	18198 kB/s
+8.217.221.165	2087	TRUE	HKG	Asia Pacific	Hong Kong	71 ms	17335 kB/s
+8.210.119.11	2083	TRUE	HKG	Asia Pacific	Hong Kong	67 ms	16365 kB/s
+8.218.243.95	2053	TRUE	HKG	Asia Pacific	Hong Kong	65 ms	16132 kB/s
+8.217.147.230	2083	TRUE	HKG	Asia Pacific	Hong Kong	62 ms	15872 kB/s
+8.218.142.253	2053	TRUE	HKG	Asia Pacific	Hong Kong	63 ms	15849 kB/s
+47.243.90.180	2096	TRUE	HKG	Asia Pacific	Hong Kong	74 ms	14214 kB/s
+47.76.178.146	2087	TRUE	HKG	Asia Pacific	Hong Kong	85 ms	14182 kB/s
+47.238.40.58	2053	TRUE	HKG	Asia Pacific	Hong Kong	69 ms	14100 kB/s
+8.218.243.95	2087	TRUE	HKG	Asia Pacific	Hong Kong	68 ms	13620 kB/s
+47.242.174.27	2087	TRUE	HKG	Asia Pacific	Hong Kong	63 ms	13351 kB/s
+47.243.206.150	2053	TRUE	HKG	Asia Pacific	Hong Kong	60 ms	13187 kB/s
+47.243.169.63	8443	TRUE	HKG	Asia Pacific	Hong Kong	61 ms	13001 kB/s
+47.76.32.108	2087	TRUE	HKG	Asia Pacific	Hong Kong	59 ms	12952 kB/s
+8.218.3.12	2087	TRUE	HKG	Asia Pacific	Hong Kong	65 ms	12670 kB/s
+47.76.178.146	2053	TRUE	HKG	Asia Pacific	Hong Kong	68 ms	12628 kB/s
+47.238.40.58	2087	TRUE	HKG	Asia Pacific	Hong Kong	64 ms	12198 kB/s
+47.242.17.250	2083	TRUE	HKG	Asia Pacific	Hong Kong	67 ms	12121 kB/s
+47.243.169.63	2087	TRUE	HKG	Asia Pacific	Hong Kong	81 ms	11873 kB/s
+8.210.192.93	2053	TRUE	HKG	Asia Pacific	Hong Kong	64 ms	11566 kB/s
+8.210.21.65	2053	TRUE	HKG	Asia Pacific	Hong Kong	63 ms	11401 kB/s
+47.76.37.57	2096	TRUE	HKG	Asia Pacific	Hong Kong	113 ms	11292 kB/s
+47.76.32.108	2053	TRUE	HKG	Asia Pacific	Hong Kong	70 ms	10843 kB/s
+47.243.91.58	2053	TRUE	HKG	Asia Pacific	Hong Kong	56 ms	10832 kB/s
+47.76.77.103	2096	TRUE	HKG	Asia Pacific	Hong Kong	55 ms	10491 kB/s
+47.243.42.219	2053	TRUE	HKG	Asia Pacific	Hong Kong	70 ms	10342 kB/s
+47.242.174.27	8443	TRUE	HKG	Asia Pacific	Hong Kong	56 ms	10259 kB/s
+47.76.159.146	2087	TRUE	HKG	Asia Pacific	Hong Kong	63 ms	10207 kB/s
+8.218.3.12	2053	TRUE	HKG	Asia Pacific	Hong Kong	67 ms	10134 kB/s
+47.76.77.103	2083	TRUE	HKG	Asia Pacific	Hong Kong	61 ms	10047 kB/s
+47.76.178.146	2083	TRUE	HKG	Asia Pacific	Hong Kong	90 ms	9996 kB/s
+47.242.17.250	2096	TRUE	HKG	Asia Pacific	Hong Kong	65 ms	9957 kB/s
+8.218.143.10	2053	TRUE	HKG	Asia Pacific	Hong Kong	61 ms	9797 kB/s
+8.217.147.230	2053	TRUE	HKG	Asia Pacific	Hong Kong	62 ms	9786 kB/s
+47.76.159.146	8443	TRUE	HKG	Asia Pacific	Hong Kong	72 ms	9708 kB/s
+8.222.244.192	2087	TRUE	SIN	Asia Pacific	Singapore	229 ms	9627 kB/s
+8.218.243.95	2083	TRUE	HKG	Asia Pacific	Hong Kong	62 ms	9611 kB/s
+47.76.32.108	2096	TRUE	HKG	Asia Pacific	Hong Kong	56 ms	9489 kB/s
+47.76.49.246	2083	TRUE	HKG	Asia Pacific	Hong Kong	87 ms	9387 kB/s
+47.243.139.85	2053	TRUE	HKG	Asia Pacific	Hong Kong	67 ms	9317 kB/s
+47.76.146.1	2083	TRUE	HKG	Asia Pacific	Hong Kong	58 ms	9162 kB/s
+47.243.234.9	2053	TRUE	HKG	Asia Pacific	Hong Kong	66 ms	9161 kB/s
+47.243.139.85	2083	TRUE	HKG	Asia Pacific	Hong Kong	67 ms	8997 kB/s
+47.76.178.146	2096	TRUE	HKG	Asia Pacific	Hong Kong	79 ms	8858 kB/s
+8.218.142.253	2087	TRUE	HKG	Asia Pacific	Hong Kong	60 ms	8661 kB/s
+47.76.37.57	2087	TRUE	HKG	Asia Pacific	Hong Kong	102 ms	8641 kB/s
+8.210.21.65	2087	TRUE	HKG	Asia Pacific	Hong Kong	64 ms	8462 kB/s
+47.242.59.216	8443	TRUE	HKG	Asia Pacific	Hong Kong	60 ms	8434 kB/s
+47.76.204.76	2083	TRUE	HKG	Asia Pacific	Hong Kong	63 ms	8418 kB/s
+47.242.59.216	2087	TRUE	HKG	Asia Pacific	Hong Kong	70 ms	8388 kB/s
+47.242.174.27	2053	TRUE	HKG	Asia Pacific	Hong Kong	62 ms	8369 kB/s
+47.243.169.63	2053	TRUE	HKG	Asia Pacific	Hong Kong	56 ms	8238 kB/s
+8.217.147.230	2087	TRUE	HKG	Asia Pacific	Hong Kong	59 ms	8229 kB/s
+47.245.84.124	2083	TRUE	SIN	Asia Pacific	Singapore	227 ms	8097 kB/s
+47.242.157.96	2053	TRUE	HKG	Asia Pacific	Hong Kong	58 ms	8091 kB/s
+8.218.74.119	2096	TRUE	HKG	Asia Pacific	Hong Kong	58 ms	8088 kB/s
+47.245.118.70	2053	TRUE	SIN	Asia Pacific	Singapore	240 ms	8050 kB/s
+47.243.139.85	8443	TRUE	HKG	Asia Pacific	Hong Kong	92 ms	8024 kB/s
+47.243.139.85	2096	TRUE	HKG	Asia Pacific	Hong Kong	75 ms	8003 kB/s
+8.217.250.5	2052	FALSE	HKG	Asia Pacific	Hong Kong	58 ms	27391 kB/s
+8.210.21.65	2095	FALSE	HKG	Asia Pacific	Hong Kong	64 ms	24200 kB/s
+8.217.49.34	2082	FALSE	HKG	Asia Pacific	Hong Kong	61 ms	22972 kB/s
+8.218.126.53	2086	FALSE	HKG	Asia Pacific	Hong Kong	64 ms	21135 kB/s
+47.243.139.85	8880	FALSE	HKG	Asia Pacific	Hong Kong	62 ms	20014 kB/s
+8.217.239.116	2052	FALSE	HKG	Asia Pacific	Hong Kong	63 ms	19740 kB/s
+47.243.169.63	80	FALSE	HKG	Asia Pacific	Hong Kong	67 ms	19243 kB/s
+8.218.243.95	2052	FALSE	HKG	Asia Pacific	Hong Kong	65 ms	19114 kB/s
+47.76.37.57	80	FALSE	HKG	Asia Pacific	Hong Kong	61 ms	19101 kB/s
+8.218.222.36	2052	FALSE	HKG	Asia Pacific	Hong Kong	64 ms	18953 kB/s
+8.217.251.62	2095	FALSE	HKG	Asia Pacific	Hong Kong	58 ms	17613 kB/s
+47.76.159.146	2052	FALSE	HKG	Asia Pacific	Hong Kong	59 ms	17182 kB/s
+8.218.201.73	2052	FALSE	HKG	Asia Pacific	Hong Kong	68 ms	16887 kB/s
+47.76.146.1	2082	FALSE	HKG	Asia Pacific	Hong Kong	56 ms	16470 kB/s
+8.218.222.36	2082	FALSE	HKG	Asia Pacific	Hong Kong	57 ms	15945 kB/s
+8.218.18.132	80	FALSE	HKG	Asia Pacific	Hong Kong	65 ms	15836 kB/s
+8.217.250.5	80	FALSE	HKG	Asia Pacific	Hong Kong	65 ms	15312 kB/s
+47.242.17.250	8880	FALSE	HKG	Asia Pacific	Hong Kong	67 ms	15250 kB/s
+47.76.49.246	2082	FALSE	HKG	Asia Pacific	Hong Kong	59 ms	14886 kB/s
+8.218.201.73	2082	FALSE	HKG	Asia Pacific	Hong Kong	64 ms	14865 kB/s
+47.238.6.102	8880	FALSE	HKG	Asia Pacific	Hong Kong	64 ms	14127 kB/s
+8.210.119.11	2082	FALSE	HKG	Asia Pacific	Hong Kong	65 ms	14077 kB/s
+8.217.164.10	2095	FALSE	HKG	Asia Pacific	Hong Kong	56 ms	13833 kB/s
+47.243.183.127	2052	FALSE	HKG	Asia Pacific	Hong Kong	61 ms	13461 kB/s
+8.210.107.246	2082	FALSE	HKG	Asia Pacific	Hong Kong	61 ms	13031 kB/s
+47.242.174.27	80	FALSE	HKG	Asia Pacific	Hong Kong	60 ms	12826 kB/s
+8.218.52.115	2052	FALSE	HKG	Asia Pacific	Hong Kong	68 ms	12317 kB/s
+8.218.18.235	2052	FALSE	HKG	Asia Pacific	Hong Kong	65 ms	12302 kB/s
+8.217.250.5	2082	FALSE	HKG	Asia Pacific	Hong Kong	60 ms	12280 kB/s
+8.218.18.132	2052	FALSE	HKG	Asia Pacific	Hong Kong	63 ms	12149 kB/s
+8.217.221.165	2052	FALSE	HKG	Asia Pacific	Hong Kong	60 ms	11970 kB/s
+47.243.139.85	8080	FALSE	HKG	Asia Pacific	Hong Kong	71 ms	11804 kB/s
+47.76.178.146	8880	FALSE	HKG	Asia Pacific	Hong Kong	71 ms	11387 kB/s
+47.76.204.76	2052	FALSE	HKG	Asia Pacific	Hong Kong	61 ms	11101 kB/s
+8.218.52.115	2082	FALSE	HKG	Asia Pacific	Hong Kong	67 ms	11076 kB/s
+8.218.18.132	8880	FALSE	HKG	Asia Pacific	Hong Kong	57 ms	10965 kB/s
+47.76.37.57	8880	FALSE	HKG	Asia Pacific	Hong Kong	65 ms	10831 kB/s
+8.210.65.1	2052	FALSE	HKG	Asia Pacific	Hong Kong	61 ms	10740 kB/s
+8.218.181.189	8880	FALSE	HKG	Asia Pacific	Hong Kong	64 ms	10638 kB/s
+47.76.159.146	2082	FALSE	HKG	Asia Pacific	Hong Kong	64 ms	10616 kB/s
+47.243.91.58	2082	FALSE	HKG	Asia Pacific	Hong Kong	59 ms	10400 kB/s
+8.217.221.165	2082	FALSE	HKG	Asia Pacific	Hong Kong	61 ms	10383 kB/s
+47.76.32.108	2052	FALSE	HKG	Asia Pacific	Hong Kong	63 ms	10254 kB/s
+8.218.204.128	2095	FALSE	HKG	Asia Pacific	Hong Kong	61 ms	10234 kB/s
+47.243.206.150	2052	FALSE	HKG	Asia Pacific	Hong Kong	54 ms	10062 kB/s
+8.210.192.93	2052	FALSE	HKG	Asia Pacific	Hong Kong	64 ms	9926 kB/s
+47.238.40.58	2086	FALSE	HKG	Asia Pacific	Hong Kong	63 ms	9922 kB/s
+47.242.36.78	2052	FALSE	HKG	Asia Pacific	Hong Kong	61 ms	9887 kB/s
+47.76.204.76	2082	FALSE	HKG	Asia Pacific	Hong Kong	60 ms	9821 kB/s
+47.237.95.146	2095	FALSE	SIN	Asia Pacific	Singapore	224 ms	9671 kB/s
+47.237.95.146	8080	FALSE	SIN	Asia Pacific	Singapore	218 ms	9446 kB/s
+47.243.91.58	2086	FALSE	HKG	Asia Pacific	Hong Kong	59 ms	9406 kB/s
+47.76.146.1	2086	FALSE	HKG	Asia Pacific	Hong Kong	59 ms	9346 kB/s
+47.76.178.146	2086	FALSE	HKG	Asia Pacific	Hong Kong	71 ms	9268 kB/s
+47.76.146.1	80	FALSE	HKG	Asia Pacific	Hong Kong	60 ms	9202 kB/s
+47.243.169.63	2082	FALSE	HKG	Asia Pacific	Hong Kong	60 ms	9166 kB/s
+47.242.157.96	2052	FALSE	HKG	Asia Pacific	Hong Kong	59 ms	9152 kB/s
+47.243.234.9	2086	FALSE	HKG	Asia Pacific	Hong Kong	57 ms	8926 kB/s
+8.218.126.53	2052	FALSE	HKG	Asia Pacific	Hong Kong	59 ms	8849 kB/s
+8.219.0.48	2052	FALSE	SIN	Asia Pacific	Singapore	225 ms	8847 kB/s
+47.237.95.146	80	FALSE	SIN	Asia Pacific	Singapore	227 ms	8737 kB/s
+8.218.143.10	2052	FALSE	HKG	Asia Pacific	Hong Kong	62 ms	8683 kB/s
+8.217.147.230	2052	FALSE	HKG	Asia Pacific	Hong Kong	65 ms	8620 kB/s
+47.76.37.57	2052	FALSE	HKG	Asia Pacific	Hong Kong	70 ms	8581 kB/s
+47.238.6.102	80	FALSE	HKG	Asia Pacific	Hong Kong	56 ms	8499 kB/s
+47.76.204.76	80	FALSE	HKG	Asia Pacific	Hong Kong	61 ms	8490 kB/s
+8.219.83.201	8880	FALSE	SIN	Asia Pacific	Singapore	211 ms	8455 kB/s
+47.238.6.102	2052	FALSE	HKG	Asia Pacific	Hong Kong	65 ms	8237 kB/s
+47.238.6.102	2086	FALSE	HKG	Asia Pacific	Hong Kong	64 ms	8217 kB/s
+47.76.37.57	2095	FALSE	HKG	Asia Pacific	Hong Kong	72 ms	8153 kB/s
+47.76.37.57	2086	FALSE	HKG	Asia Pacific	Hong Kong	74 ms	8143 kB/s
+8.218.142.253	2052	FALSE	HKG	Asia Pacific	Hong Kong	62 ms	8121 kB/s
+47.237.95.156	8080	FALSE	SIN	Asia Pacific	Singapore	218 ms	8078 kB/s
+47.76.178.146	2052	FALSE	HKG	Asia Pacific	Hong Kong	73 ms	8036 kB/s
+35.201.203.106	443	TRUE	TPE	Asia Pacific	Taipei	92 ms	28674 kB/s
+34.123.83.237	443	TRUE	ORD	North America	Chicago	331 ms	2538 kB/s
+35.236.55.171	443	TRUE	LAX	North America	Los Angeles	287 ms	1183 kB/s
